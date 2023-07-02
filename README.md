@@ -1,0 +1,4 @@
+# ardumidbeta6_uno
+
+2017に書いたコードの供養
+arduinoUNOにrufaを書き込んでMIDI送って遊んでた気がする
